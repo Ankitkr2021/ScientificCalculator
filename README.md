@@ -13,4 +13,4 @@ This is a simple web-based scientific calculator built using HTML, CSS, and Java
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/scientific-calculator.git
+git clone https://github.com/Ankitkr2021/ScientificCalculator.git
